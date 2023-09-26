@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jesMx
+- I'm learning HTML5 and CSS3
+- <!--I hope it is my first step as a developer-->
+- I'm interested in automatization of tasks, things that can make work or even life a little easier
+- 
